@@ -85,35 +85,6 @@ APP_APOTEK dikembangkan sebagai solusi digital untuk mendukung manajemen apotek 
 
 # SHOWCASE
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.1.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.2.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.3.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.4.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.5.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.6.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.7.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.8.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.9.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.10.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.11.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.12.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.13.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.14.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.15.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.16.png" width="200px"/>
-</div>
-
----
-
-# PENAMBAHAN 3 FITUR
-- **Pemasok Obat**: Udah kayak nyari jodoh, fitur ini bikin kamu bisa cari tahu pemasok yang selalu “stand by” buat ngisi apotek kamu. Tinggal catat siapa yang ngasih “suplemen cinta” ke rak obat kamu dan pastikan apotek gak pernah kehabisan stok! Jadi kalau butuh pemasok yang setia, tinggal klik-klik, dan kamu bisa tahu siapa yang ngasih “obat cinta” untuk pasien-pasien tercinta kamu 😘.
-
-- **Stok Obat Masuk - Keluar**: Siapa yang ngambil? Siapa yang masukin? Semuanya bisa kamu track di sini! Fitur ini cocok buat kamu yang pengen apoteknya rapi kayak apotek-apotek di film. Mau cek obat masuk atau keluar? Tenang aja, semua data tercatat rapi kayak cerita asmara yang sempurna (tapi sayangnya kadang lebih sempurna dari asmara asli 😅). Jadi, siap-siaplah jadi apoteker detektif dengan fitur ini, nyari tahu mana obat yang sering “keluar” dari rak! 💼🔍
-
-- **Lihat Stok Obat**: Jangan sampai ada pasien kecewa cuma gara-gara obatnya “kehabisan.” Dengan fitur ini, kamu bisa jadi apoteker yang selalu siaga – langsung cek sisa stok obat di rak tanpa drama. Jadi, kapan aja ada yang nanya, “Masih ada paracetamol, nggak?” atau “Ada obat tidur nggak?” langsung cek aja di sini, biar gak ada yang susah tidur mikirin stok obat 🤣.
-
-# SHOWCASE V.2
-<div align="center">
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.17.png" width="200px"/>
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.18.png" width="200px"/>
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.19.png" width="200px"/>
@@ -129,7 +100,7 @@ APP_APOTEK dikembangkan sebagai solusi digital untuk mendukung manajemen apotek 
 
 ---
 
-# UPDATE V.2.1
+# UPDATE V.1.1
 - **Pembaruan ini cuma merelasikan tabel yang diperlukan serta Kejelasan di fitur Lihat Stock Obat dan fitur ini diperuntukkan untuk si apotek mencari / melihat apakah ada gak tuh stock obat yang masih di tangan kurir kah atau mungkin kamu yang gak jadi masok obatnya 🤣**
 
 # SHOWCASE V.2.1
