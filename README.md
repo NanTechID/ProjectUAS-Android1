@@ -1,4 +1,4 @@
-# APP_APOTEK
+# APP_APOTEK NanTech.ID
 
 ## Deskripsi Proyek
 
