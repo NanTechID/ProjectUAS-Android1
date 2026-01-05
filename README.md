@@ -1,5 +1,7 @@
-# APP_APOTEK NanTech.ID
-
+# APP_APOTEK NanTech.ID<br>
+PROJECT UAS PEMROGRAMAN ANDROID 1<br>
+ISNAN SETIADI<br>
+23040051<br>
 ## Deskripsi Proyek
 
 **APP_APOTEK** merupakan aplikasi manajemen apotek berbasis **Flutter** yang dikembangkan untuk mendukung pengelolaan data operasional apotek secara terintegrasi dan efisien. Aplikasi ini ditujukan bagi tenaga kesehatan dan pengelola apotek dalam mengelola data obat, pasien, serta staf secara sistematis.
@@ -100,20 +102,8 @@ APP_APOTEK dikembangkan sebagai solusi digital untuk mendukung manajemen apotek 
 
 ---
 
-# UPDATE V.1.1
-- **Pembaruan ini cuma merelasikan tabel yang diperlukan serta Kejelasan di fitur Lihat Stock Obat dan fitur ini diperuntukkan untuk si apotek mencari / melihat apakah ada gak tuh stock obat yang masih di tangan kurir kah atau mungkin kamu yang gak jadi masok obatnya 🤣**
-
-# SHOWCASE V.2.1
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.28.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.29.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.30.png" width="200px"/>
-</div>
 
 # COMPONENT 💾 YANG DI PERLUKAN 
 - Penghubung antar flutter ke mysql/phpmyadmin yang di xampp
 - Code SQL untuk Create DB dan TB
-<div align="center">
-  <a href="https://github.com/TEUNGKU-ZULKIFLI/api_apotek"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO API APOTEK</button></a>
-</div>
 # ProjectUAS-Android1
