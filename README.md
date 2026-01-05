@@ -85,17 +85,17 @@ APP_APOTEK dikembangkan sebagai solusi digital untuk mendukung manajemen apotek 
 
 # SHOWCASE
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.17.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.18.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.19.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.20.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.21.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.22.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.23.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.24.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.25.png" width="200px"/>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.26.png" width="200px"/><br><br>
-  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/018.27.png" width="800px"/>
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/f4f41b89-c3e8-4a4d-bfb7-e0c89dca5dcb" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/dc4348f8-4c8b-4cff-9123-e86279cba505" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/dc20f54a-3288-4392-9d86-6d6c34e05c96" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/e5da22ab-0cc2-46bc-a04b-221758923130" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/14a0ee90-60c3-463a-9f65-0239e3f027b4" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/dcf36f58-77b3-4bdd-b5e2-2966312c1a4c" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/b013f483-d039-4fe7-9af9-51f9e7ca626e" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/173f300e-24c4-402b-a3dc-59e30ae4c7e1" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/3c17bb38-2554-43c5-984e-edd450931110" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/a77153f5-b435-4232-be1f-95feea6d79d6" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/dc596413-7dae-4862-a7e9-e351ee5c0446" />
 </div>
 
 ---
