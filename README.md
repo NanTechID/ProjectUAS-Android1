@@ -104,6 +104,6 @@ APP_APOTEK dikembangkan sebagai solusi digital untuk mendukung manajemen apotek 
 
 
 # COMPONENT 💾 YANG DI PERLUKAN 
-- Penghubung antar flutter ke mysql/phpmyadmin yang di xampp
+- Penghubung antar flutter ke mysql/phpmyadmin yang di xampp/Laragon/AMPPS,DLL
 - Code SQL untuk Create DB dan TB
 # ProjectUAS-Android1
